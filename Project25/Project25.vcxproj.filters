@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Getting_The_Letter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Number_Of_Seats_Available.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_Menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Option_List_Menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Showing_Number_Of_Empty_Seats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Of_Assigned_Passengers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seat_assigned_To_Passengers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Deleting_The_Assigned_Seats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Displaying_The_Seats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seat_Sorting.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Confirming_The _Assigned_Passenger_Seat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Creating_The_List.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Getting_String.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Number_Of_Seats_Available.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Getting_The_Letter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Option_List_Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Showing_Number_Of_Empty_Seats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="List_Of_The_Assigned_Passengers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Seat_Assigned_To_Passengers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Deleting_The_Assigned_Seats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Displaying_The_Seats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Seat_Sorting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Confirming_The_Passenger_Seat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Creating_The_List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Getting_String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
